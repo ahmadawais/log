@@ -29,11 +29,36 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
-### RELEASE: [1.0.0](https://github.com/ahmadawais/log/compare/1.0.0...1.0.0)
+### RELEASE: [1.1.0](https://github.com/ahmadawais/log/compare/1.0.0...1.1.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Release [`aa84e1b`](https://github.com/ahmadawais/log/commit/aa84e1b308d20155e45b2d122517909931c88a83) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`e07f8f2`](https://github.com/ahmadawais/log/commit/e07f8f2b38d13248dacd03500cfc2b8491f0eabf) <br>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
+### RELEASE: 1.0.0
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 First commit [`d8f4a0d`](https://github.com/ahmadawais/log/commit/d8f4a0dec9b8ddb1a21fc4daf7a49e688d5b8ea1) <br>
+> 📦 Log [`1ad1772`](https://github.com/ahmadawais/log/commit/1ad1772748ea31747ade35357465ae670062a090) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Version [`a214c88`](https://github.com/ahmadawais/log/commit/a214c88e951f6017af376786685c9ae9b272e15e) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`f5942f7`](https://github.com/ahmadawais/log/commit/f5942f7cad8dfdb19aff7413a38b22ac270a7f75) <br>
 
 <br />
 
