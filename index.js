@@ -1,0 +1,3 @@
+/* LOG */
+
+module.exports = () => {};

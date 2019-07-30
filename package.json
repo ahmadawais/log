@@ -1,0 +1,21 @@
+{
+	"name": "log",
+	"version": "1.0.0",
+	"description": "A custom log script.",
+	"license": "MIT",
+	"repository": "ahmadawais/log",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"log",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}
