@@ -12,7 +12,7 @@
 ## Install
 
 ```sh
-npm install @ahmadawais/log
+npm install @mrahmadawais/log
 ```
 
 <br />
@@ -22,7 +22,7 @@ npm install @ahmadawais/log
 ## Usage
 
 ```js
-const log = require('@ahmadawais/log');
+const log = require('@mrahmadawais/log');
 
 // Log anything simply.
 log('This is simple');
